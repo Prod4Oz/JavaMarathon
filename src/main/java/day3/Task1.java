@@ -7,7 +7,7 @@ public class Task1 {
         Scanner scanner = new Scanner(System.in);
 
         while (true){
-            String city = scanner.nextLine();
+            String city = scanner.nextLine(); // variable
 
             if (city.equals("Stop"))
                 break;

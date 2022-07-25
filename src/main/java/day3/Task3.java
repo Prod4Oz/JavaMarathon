@@ -6,11 +6,11 @@ public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int counter = 0;
+        int counter = 0; // variable
 
         while (counter < 5){
-            double a = scanner.nextDouble();
-            double b = scanner.nextDouble();
+            double a = scanner.nextDouble(); // variable
+            double b = scanner.nextDouble(); // variable
 
             counter++;
 

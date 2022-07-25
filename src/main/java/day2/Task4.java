@@ -6,8 +6,8 @@ public class Task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        double x = scanner.nextDouble();
-        double y;
+        double x = scanner.nextDouble(); // variable
+        double y; // variable
         if (x >= 5) {
             y = (Math.pow(x, 2) - 10) / (x + 7);
         } else if (x > -3 && x < 5) {

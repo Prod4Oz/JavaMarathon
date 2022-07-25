@@ -7,8 +7,8 @@ public class Task2 {
         Scanner scanner = new Scanner(System.in);
 
         while (true){
-            double a = scanner.nextDouble();
-            double b = scanner.nextDouble();
+            double a = scanner.nextDouble(); // variable
+            double b = scanner.nextDouble(); // variable
 
             if ( b == 0 ) break;
 
