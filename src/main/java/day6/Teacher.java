@@ -48,7 +48,7 @@ public class Teacher {
 
         }
         System.out.println(" Teacher " + this.fio
-                + " evaluate " + student.getName()
+                + " evaluate student " + student.getName()
                 + " to subject " + this.subject
                 + "from ---> " + evaluation);
     }
